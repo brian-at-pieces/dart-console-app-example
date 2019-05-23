@@ -1,4 +1,4 @@
-# Dart command-line application
+# Dart command-line application [![Build Status](https://travis-ci.org/daggerok/dart-console-app-example.svg?branch=master)](https://travis-ci.org/daggerok/dart-console-app-example)
 
 Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
