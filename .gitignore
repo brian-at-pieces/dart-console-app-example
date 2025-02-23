@@ -1,6 +1,5 @@
 .idea/
 bin/**
-!bin/main.dart
 
 # Files and directories created by pub
 .dart_tool/
